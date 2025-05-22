@@ -27,7 +27,7 @@ This project implements a binary classification system that can identify violent
 - **Training Strategy**: Transfer learning with frozen base layers
 
 ## 📂 Dataset Structure
-
+Dataset Link - https://www.kaggle.com/datasets/mohamedmustafa/real-life-violence-situations-dataset
 ```
 Real Life Violence Dataset/
 ├── Violence/           # Violent video samples
