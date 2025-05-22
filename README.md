@@ -175,10 +175,6 @@ print(f"Prediction: {label} (confidence: {confidence:.2f})")
 4. Push to the branch (`git push origin feature/new-feature`)
 5. Create a Pull Request
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 🙏 Acknowledgments
 
 - InceptionV3 model from TensorFlow/Keras
